@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51379" started-at="2020-03-30T21:29:30 EDT" finished-at="2020-03-30T21:30:22 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51379" started-at="2020-03-30T21:29:30 EDT" finished-at="2020-03-30T21:30:22 EDT">
+      <class name="test.Magento">
+        <test-method status="PASS" signature="register()[pri:1, instance:test.Magento@6a41eaa2]" name="register" duration-ms="29576" started-at="2020-03-30T21:29:30 EDT" finished-at="2020-03-30T21:30:00 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="negative_login()[pri:2, instance:test.Magento@6a41eaa2]" name="negative_login" duration-ms="21741" started-at="2020-03-30T21:30:00 EDT" finished-at="2020-03-30T21:30:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negative_login -->
+      </class> <!-- test.Magento -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
